@@ -1,0 +1,16 @@
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.deps.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.pdb
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfoInputs.cache
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.AssemblyInfo.cs
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cache
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.dll
+C:\Git\LearningMVCCore\1.LearningASP.NET\Ch02\02_06_End\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.pdb
